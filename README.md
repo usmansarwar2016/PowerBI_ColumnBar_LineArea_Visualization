@@ -1,5 +1,8 @@
 # Column & Bar Visualization/ Power Bi
 
+
+![Column & Bar Visualization](/images/column%20and%20bar.png)
+
 In this project I build different Column and Bar charts like 
 1) stacked bar chart 
 2) stacked column chart 
