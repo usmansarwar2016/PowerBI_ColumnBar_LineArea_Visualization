@@ -1,4 +1,4 @@
-# Column,Bar,Line and Area Visualization/ Power Bi
+# Column and Bar Visualization/ Power Bi
 
 
 ![Column & Bar Visualization](/images/column%20and%20bar.png)
@@ -17,6 +17,10 @@ In this dashboard we used different Column and Bar charts like
 2) Stacked column chart 
 3) Clustered column chart 
 4) 100% stacked bar chart
+
+
+
+# Line and Area Visualization/ Power Bi
 
 
 ![Line & Area Visualization](/images/Line%20and%20area.png)
